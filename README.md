@@ -1,1 +1,1 @@
-This to-do list outlines the development process, from prototyping and design to testing and refinement, showcasing your coding abilities.
+Ditch the sticky notes! Conquer your day with my powerful to-do list app.
