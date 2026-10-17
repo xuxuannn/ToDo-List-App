@@ -1,15 +1,26 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+# Gradle and build output
+.gradle/
+build/
+*/build/
+
+# Local Android SDK configuration
 local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Native build output and captures
+.externalNativeBuild/
+.cxx/
+captures/
+
+# Signing material
+*.jks
+*.keystore
+keystore.properties
+
+# Operating system files
+.DS_Store
+Thumbs.db
